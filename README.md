@@ -70,10 +70,10 @@ if(LENGTH4) if (x*x + y*y + z*z == a4) ...
 if(LENGTH5) if (x*x + y*y + z*z == a5) ...
 ```
 
-In SC lattice, a1~a5 corresponds to 1, 2, 3, 4, 5.
+In SC lattice, a1-a5 corresponds to 1, 2, 3, 4, 5.
 2, 4, 6, 8, 10 and 3, 4, 8, 11, 12 respectively corresponds to FCC and BCC lattices.
 If you want to reproduce this code, firstly, you should choose the type of lattice then change the parameter a1~a5 to the lattice you choose.
-then print your PROB and LENGTH1~5, for example, the parameters of FCC-125 are as follows:
+then print your PROB and LENGTH1-5, for example, the parameters of FCC-125 are as follows:
 
 ```bash
 #define PROB p        // bond probability in the plane
