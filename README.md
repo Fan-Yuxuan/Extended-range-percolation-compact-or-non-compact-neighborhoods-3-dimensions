@@ -5,7 +5,8 @@ This repository contains the official source code and experimental datasets used
 ## Repository Structure
 
 # Experimental raw data (.txt)
-
+```bash
+.
 │   ├── bond_cube_shaped_neighbors.txt
 │   ├── site_cube_shaped_neighbors.txt
 │   └── correspond to PART III
@@ -24,6 +25,7 @@ This repository contains the official source code and experimental datasets used
 n]
 ├── README.md               # This file
 └──
+```
 
 # Dependencies & Compilation & Data Descri
 To compile and run the C++ codes, ensure you have the following installed on your system:
@@ -33,6 +35,7 @@ To compile the main analysis code, navigate to the cpp file and run:
 
 ```bash
 g++ -mcmodel=medium -o main main.cpp
+```
 
 # Data Description
 
