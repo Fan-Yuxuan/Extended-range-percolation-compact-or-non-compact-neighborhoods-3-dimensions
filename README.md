@@ -4,9 +4,10 @@ This repository contains the official source code and experimental datasets used
 
 ## Repository Structure
 
-# Experimental raw data (.txt)
 ```bash
-.
+
+# Experimental raw data (.txt)
+
 │   ├── bond_cube_shaped_neighbors.txt
 │   ├── site_cube_shaped_neighbors.txt
 │   └── correspond to PART III
@@ -22,7 +23,8 @@ This repository contains the official source code and experimental datasets used
 │   └── correspond to PART III
 │   └── site_non_compact.cpp 
 │   └── correspond to PART IV
-n]
+
+
 ├── README.md               # This file
 └──
 ```
