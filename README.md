@@ -29,7 +29,7 @@ This repository contains the official source code and experimental datasets used
 └──
 ```
 
-# Dependencies & Compilation & Data Description
+# Dependencies & Compilation
 To compile and run the C++ codes, ensure you have the following installed on your system:
 Compiler: g++ (version 9.0 or later) or any C++17-compliant compiler.
 Libraries: Standard Template Library (STL) only.
