@@ -49,7 +49,9 @@ In site_cube_shaped.cpp and bond_cube_shaped.cpp,there are two parameters can be
 #define LENGTH L //  (~ - 1 = )cubic length,z = LENGTH*LENGTH*LENGTH-1, L only can be odds
 ```
 
-By changing the two parameters, you can reproduce all of the data in bond_cube_shaped_neighbors.txt and site_cube_shaped_neighbors.txt. For example, calculating bond percolation on 6*6*6 cube-shaped neighborhoods with p=0.03092, you can exert bond_cube_shaped.cpp after changing the parameters into:
+By changing the two parameters, you can reproduce all of the data in bond_cube_shaped_neighbors.txt and site_cube_shaped_neighbors.txt. 
+
+For example, calculating bond percolation on 6*6*6 cube-shaped neighborhoods with p=0.03092, you can exert bond_cube_shaped.cpp after changing the parameters into:
 
 ```bash
 #define PROB 0.03092        // bond probability in the plane
