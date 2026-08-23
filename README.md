@@ -104,4 +104,27 @@ The experimental data are stored as plain text files (.txt). Each file correspon
 
 · Types of lattices (e.g., CUB-(2), SC-1,...)
 
-· s^(τ-2)*(P≥s) versus s^σ in each p and slope (two tables presented respectively) 
+· Table of s^(τ-2)*(P≥s) versus s^σ in each p
+
+The format of the table is like:
+
+```bash
+log2(s)  s^σ  s^(τ-2)*(P≥s)
+0        x1   y1  y2  y3  ...
+1        x2   y4  y5  y6  ...
+...
+```
+
+Every table like that correspond to a figure s^(τ-2)*(P≥s) versus s^σ in paper.
+
+· Table of d(s^(τ-2)*(P≥s))/d(s^σ) versus p in each p
+
+The format of the table after is like:  
+```bash
+p    d(s^(τ-2)*(P≥s))/d(s^σ)
+x1   y1
+x2   y2
+...
+```
+
+Every table like that correspond to a figure d(s^(τ-2)*(P≥s))/d(s^σ) versus p in paper.  
