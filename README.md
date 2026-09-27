@@ -9,20 +9,20 @@ This repository contains the official source code and experimental datasets used
 # Experimental raw data (.txt)
 
 │   ├── MAIN_FIG2_3.txt
-│   └── correspond to main paper figure2 and figure3
+│   └── correspond to Main Paper Figure2 and Figure3
 │   ├── SM_FIG_1_2.txt
 │   ├── SM_FIG_3_4_5_6.txt
 │   ├── SM_FIG_7_8_9_10.txt
 │   ├── SM_FIG_11_12_13_14.txt
-│   └── correspond to PART IV
+│   └── correspond to Supplemental Material Figure1~14
 
 # C++ source codes (.cpp)
 
 │   ├── bond_cube_shaped.cpp   
 │   ├── site_cube_shaped.cpp
-│   └── correspond to PART III
+│   └── correspond to main paper part III
 │   └── site_non_compact.cpp 
-│   └── correspond to PART IV
+│   └── correspond to main paper part IV
 
 
 ├── README.md               # This file
