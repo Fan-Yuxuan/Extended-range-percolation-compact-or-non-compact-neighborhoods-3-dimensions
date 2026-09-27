@@ -8,12 +8,12 @@ This repository contains the official source code and experimental datasets used
 
 # Experimental raw data (.txt)
 
-│   ├── bond_cube_shaped_neighbors.txt
-│   ├── site_cube_shaped_neighbors.txt
-│   └── correspond to PART III
-│   ├── site_non_compact_neighbors_SC.txt
-│   ├── site_non_compact_neighbors_FCC.txt
-│   ├── site_non_compact_neighbors_BCC.txt
+│   ├── MAIN_FIG2_3.txt
+│   └── correspond to main paper figure2 and figure3
+│   ├── SM_FIG_1_2.txt
+│   ├── SM_FIG_3_4_5_6.txt
+│   ├── SM_FIG_7_8_9_10.txt
+│   ├── SM_FIG_11_12_13_14.txt
 │   └── correspond to PART IV
 
 # C++ source codes (.cpp)
