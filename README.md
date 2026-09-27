@@ -1,4 +1,4 @@
-# Code and Data for Extended-range percolation on lattices with compact and non-compact neighborhoods in three dimensions
+# Code and Data for Extended-range percolation on lattices with cube-shaped and non-compact neighborhoods in three dimensions
 
 This repository contains the official source code and experimental datasets used to generate the results presented in the paper.
 
